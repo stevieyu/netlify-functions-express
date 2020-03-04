@@ -13,7 +13,7 @@
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-scripts": "1.1.5",
-    "serverless-http": "2.3.0",
+    "serverless-http": "2.3.2",
     "vue": "2.6.11",
     "vue-server-renderer": "2.6.11"
   },
